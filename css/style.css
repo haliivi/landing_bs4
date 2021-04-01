@@ -1,0 +1,19 @@
+.header {
+    background-image: url("../imgs/header.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 900px;
+    position: relative;
+}
+.overlay {
+    position: absolute;
+    min-width: 100%;
+    min-height: 100%;
+    background: rgba(244, 244, 244, 0.79);
+}
+.desc {
+    position: absolute;
+    top: 30%;
+    padding: 10%;
+}
